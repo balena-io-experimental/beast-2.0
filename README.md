@@ -19,6 +19,10 @@ Raspberry Pi 3 Model B | Raspberry Foundation | [Adafruit](https://www.adafruit.
 SanDisk Ultra 8GB Class 10 UHS-I MicroSDHC Memory Card (SDSDQUAN-008G-G4A) | SanDisk | [amazon.com](https://www.amazon.com/SanDisk-MicroSDHC-Standard-Packaging-SDSDQUAN-008G-G4A/dp/B00M55C0VU/) | 24
 RJ45 Ethernet Cable Cat6 Flat 3ft | Hexagon Network | [amazon.com](https://www.amazon.com/Hexagon-Network-Ethernet-Internet-Connectors/dp/B00VZXRWKW/) | 28
 RJ45 Ethernet Cable Cat6 Flat 25ft | Hexagon Network | [amazon.com](https://www.amazon.com/Hexagon-Network-Ethernet-Internet-Connectors/dp/B010H520R8/) | 1
+3ft Micro USB Cable - A to Right Angle Micro B (UUSBHAUB3RA) | StarTech | [amazon.com](https://www.amazon.com/StarTech-com-Micro-USB-Cable-UUSBHAUB3RA/dp/B001AR4NC8/) | 24
+Adafruit PiTFT 2.4" HAT Mini Kit - 320x240 TFT Touchscreen | Adafruit | [Adafruit](https://www.adafruit.com/products/2455) | 24
+Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 | Adafruit | [Adafruit](https://www.adafruit.com/products/2336) | 24
+Tactile Switch Buttons (6mm slim) x 20 pack | Adafruit | [Adafruit](https://www.adafruit.com/products/1489) | 1
 
 ### Assembly
 
