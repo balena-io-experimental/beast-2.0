@@ -13,7 +13,7 @@ Name | Manufacturer/Publisher | Link | Qty
 5.6mm Tile components | Resin.io | [tile_5.6mm_P3.eps](https://github.com/resin-io/beast/blob/master/hardware/eps/tile_5.6mm_P3.eps?raw=true) | 2
 Aukey CC-S1 4.8A Dual Port USB Car Charger | Aukey | [Amazon.com](https://www.amazon.com/Aukey-CC-S1-4-8A-Dual-Charger/dp/B00M6QODH2/) | 12
 NETGEAR 8-Port Gigabit Ethernet 10/100/1000Mbps Switch (GS308) | Netgear | [amazon.com](https://www.amazon.com/NETGEAR-Gigabit-Ethernet-1000Mbps-GS308/dp/B00KFD0SEA/) | 4
-Green Light Illuminated 3 Terminal ON-OFF SPST Snap in Round Boat Rocker Switch | Uxcell | [amazon.com](https://www.amazon.com/uxcell®-Illuminated-Terminal-Rocker-Switch/dp/B0084220CM/) | 2
+Green Light Illuminated 3 Terminal ON-OFF SPST Snap in Round Boat Rocker Switch | Uxcell | [amazon.com](https://www.amazon.com/uxcell®-Illuminated-Terminal-Rocker-Switch/dp/B0084220CM/) | 4
 2.5mm panel-mount barrel jack | `tbd` | `tbd` | 4
 Raspberry Pi 3 Model B | Raspberry Foundation | [Adafruit](https://www.adafruit.com/products/3055) | 24
 SanDisk Ultra 8GB Class 10 UHS-I MicroSDHC Memory Card (SDSDQUAN-008G-G4A) | SanDisk | [amazon.com](https://www.amazon.com/SanDisk-MicroSDHC-Standard-Packaging-SDSDQUAN-008G-G4A/dp/B00M55C0VU/) | 24
