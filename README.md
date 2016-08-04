@@ -17,12 +17,17 @@ Green Light Illuminated 3 Terminal ON-OFF SPST Snap in Round Boat Rocker Switch 
 2.5mm panel-mount barrel jack | `tbd` | `tbd` | 4
 Raspberry Pi 3 Model B | Raspberry Foundation | [Adafruit](https://www.adafruit.com/products/3055) | 24
 SanDisk Ultra 8GB Class 10 UHS-I MicroSDHC Memory Card (SDSDQUAN-008G-G4A) | SanDisk | [amazon.com](https://www.amazon.com/SanDisk-MicroSDHC-Standard-Packaging-SDSDQUAN-008G-G4A/dp/B00M55C0VU/) | 24
-RJ45 Ethernet Cable Cat6 Flat 3ft | Hexagon Network | [amazon.com](https://www.amazon.com/Hexagon-Network-Ethernet-Internet-Connectors/dp/B00VZXRWKW/) | 28
-RJ45 Ethernet Cable Cat6 Flat 25ft | Hexagon Network | [amazon.com](https://www.amazon.com/Hexagon-Network-Ethernet-Internet-Connectors/dp/B010H520R8/) | 1
-3ft Micro USB Cable - A to Right Angle Micro B (UUSBHAUB3RA) | StarTech | [amazon.com](https://www.amazon.com/StarTech-com-Micro-USB-Cable-UUSBHAUB3RA/dp/B001AR4NC8/) | 24
+FLAT CAT6 Ethernet LAN Patch Cable Low Profile GIGABIT RJ45 0.3m 30cm | Kenable Network | [amazon.com](http://www.kenable.co.uk/product_info.php?products_id=7970) | 16
+FLAT CAT6 Ethernet LAN Patch Cable Low Profile GIGABIT RJ45 0.5m 50cm | Kenable Network | [kenable](http://www.kenable.co.uk/product_info.php?products_id=7260) | 8
+StarTech.com 1 ft / 30cm Micro USB Cable - A to Left Angle Micro B - USB Type A - 90 Degree Micro-USB Type B (M) - Black | StarTech | [misco](http://www.misco.co.uk/product/198355/StarTech-com-1-ft-30cm-Micro-USB-Cable-A-to-Left-Angle-Micro-B-USB-Type-A-90-Degree-Micro-USB-Type-B-M-Black) | 8
+USB 2.0 A To RIGHT ANGLE MICRO B Data & Charging Cable 0.5m 50cm Lead | Kenable Network | [kenable](http://www.kenable.co.uk/product_info.php?products_id=7239) | 16
 Adafruit PiTFT 2.4" HAT Mini Kit - 320x240 TFT Touchscreen | Adafruit | [Adafruit](https://www.adafruit.com/products/2455) | 24
 Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 | Adafruit | [Adafruit](https://www.adafruit.com/products/2336) | 24
 Tactile Switch Buttons (6mm slim) x 20 pack | Adafruit | [Adafruit](https://www.adafruit.com/products/1489) | 1
+SCIGRIP 16 10315 Acrylic Cement, Low-VOC, Medium bodied, 5 Ounce Tube, Clear | SCIGRIP | [amazon.com](https://www.amazon.com/SCIGRIP-10315-Acrylic-Cement-Low-VOC/dp/B003HNFLMY/) | 1
+Gaunt Industries HYPO-SY20-65 - Solvent Cement Applicator - Precision Acrylic Adhesive Dispenser - 20cc Syringe with 16 Gauge Blunt Needle - Weld-on Applicator | Gaunt Industries | [amazon.com](https://www.amazon.com/Gaunt-Industries-HYPO-SY20-65-Applicator-Weld-/dp/B00GPT1QNU/) | 1
+M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs | Wallmart | [Wallmart](M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs) | 16
+
 
 ### Assembly
 

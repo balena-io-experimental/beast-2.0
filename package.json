@@ -1,6 +1,6 @@
 {
   "name": "beast",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "# Tile the minimum quantity for manufacturing is 8 tiles",
   "main": "README.md",
   "scripts": {
