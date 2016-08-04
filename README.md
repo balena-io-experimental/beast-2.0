@@ -26,7 +26,7 @@ Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 | Adafruit | [Adafru
 Tactile Switch Buttons (6mm slim) x 20 pack | Adafruit | [Adafruit](https://www.adafruit.com/products/1489) | 1
 SCIGRIP 16 10315 Acrylic Cement, Low-VOC, Medium bodied, 5 Ounce Tube, Clear | SCIGRIP | [amazon.com](https://www.amazon.com/SCIGRIP-10315-Acrylic-Cement-Low-VOC/dp/B003HNFLMY/) | 1
 Gaunt Industries HYPO-SY20-65 - Solvent Cement Applicator - Precision Acrylic Adhesive Dispenser - 20cc Syringe with 16 Gauge Blunt Needle - Weld-on Applicator | Gaunt Industries | [amazon.com](https://www.amazon.com/Gaunt-Industries-HYPO-SY20-65-Applicator-Weld-/dp/B00GPT1QNU/) | 1
-M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs | Wallmart | [Wallmart](M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs) | 16
+M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs | Wallmart | [Wallmart](http://www.walmart.com/ip/M10-1mm-Pitch-Threaded-Zinc-Alloy-Pipe-Nipple-Lamp-Repair-Part-30mm-Long-10pcs/51231100) | 2
 M3x8mm Black Nylon Pan Head Screws Pack of 100 | Sheena | [amazon.com](https://www.amazon.com/M3x8mm-Black-Nylon-Head-Screws/dp/B00O1S4ZEY/) | 1
 Knurled Nut  #8-32 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Brass-Knurled-Thumb-Nut-p/122000.htm) | 16
 Male / Female Spacer M 2.5 | Assman WSW Company | [digikey](http://www.digikey.com/product-detail/en/assmann-wsw-components/V6622A/AE10795-ND/3511496) | 96
