@@ -46,20 +46,20 @@ FLAT CAT6 Ethernet LAN Patch Cable Low Profile GIGABIT RJ45 0.3m 30cm | Kenable 
 FLAT CAT6 Ethernet LAN Patch Cable Low Profile GIGABIT RJ45 0.5m 50cm | Kenable Network | [kenable](http://www.kenable.co.uk/product_info.php?products_id=7260) | 16 | __64__
 
 #### Screws and other appliance
-Name | Manufacturer/Publisher | Link | Qty | Qty * 4 (32 Tiles)
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
 ------------ | ------------- | ------------ | ------------- | -------------
-SCIGRIP 16 10315 Acrylic Cement, Low-VOC, Medium bodied, 5 Ounce Tube, Clear | SCIGRIP | [amazon.com](https://www.amazon.com/SCIGRIP-10315-Acrylic-Cement-Low-VOC/dp/B003HNFLMY/) | 1 | __4__
-Gaunt Industries HYPO-SY20-65 - Solvent Cement Applicator - Precision Acrylic Adhesive Dispenser - 20cc Syringe with 16 Gauge Blunt Needle - Weld-on Applicator | Gaunt Industries | [amazon.com](https://www.amazon.com/Gaunt-Industries-HYPO-SY20-65-Applicator-Weld-/dp/B00GPT1QNU/) | 1 | __4__
-Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 | Adafruit | [Adafruit](https://www.adafruit.com/products/2336) | 96 | __384__
-M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs | Wallmart | [Wallmart](http://www.walmart.com/ip/M10-1mm-Pitch-Threaded-Zinc-Alloy-Pipe-Nipple-Lamp-Repair-Part-30mm-Long-10pcs/51231100) | 2 | __8__
-M3x8mm Black Nylon Pan Head Screws Pack of 100 | Sheena | [amazon.com](https://www.amazon.com/M3x8mm-Black-Nylon-Head-Screws/dp/B00O1S4ZEY/) | 1 | __4__
-Knurled Nut  #8-32 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Brass-Knurled-Thumb-Nut-p/122000.htm) | 32 | __128__
-Male / Female Spacer M 2.5 | Assman WSW Company | [digikey](http://www.digikey.com/product-detail/en/assmann-wsw-components/V6622A/AE10795-ND/3511496) | 192 | __768__
-Pan Head Screw - M 2.5 | Keystone / Std | [digikey](http://www.digikey.com/product-search/en?keywords=keyston%2029300) | 192 | __768__
-Split Washer - M2.5 100pcs | Uxcell | [amazon.com](https://www.amazon.com/Stainless-Spring-Washers-Spacer-100pcs/dp/B014IF90YE/ref=sr_1_1?ie=UTF8&qid=1470329400&sr=8-1&keywords=m2.5+split+washer) | 1 | __4__
-Nut M2.5 100 pcs | SmallParts | [amazon.com](https://www.amazon.com/Steel-Hex-M2-5-0-45-Threads-Pack/dp/B000NBIHEW/ref=sr_1_1?ie=UTF8&qid=1470329547&sr=8-1&keywords=m2.5+nut) | 1 | __4__
-M3 5+6mm Male Female Thread Nylon Hex Standoff Spacer Pillar 100pcs | Uxcell | [amazon.com](https://www.amazon.com/uxcell®-Female-Thread-Standoff-Spacer/dp/B013G1NJO8/) | 1 | __4__
-Slotted Flat Head Screw #8-32 x 7/8 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Slotted-Flat-Head-Machine-Screw-Solid-Brass-8-32-p/1013-10005.htm) | 32  | __128__
+SCIGRIP 16 10315 Acrylic Cement, Low-VOC, Medium bodied, 5 Ounce Tube, Clear | SCIGRIP | [amazon.com](https://www.amazon.com/SCIGRIP-10315-Acrylic-Cement-Low-VOC/dp/B003HNFLMY/) | 1 | __8__
+Gaunt Industries HYPO-SY20-65 - Solvent Cement Applicator - Precision Acrylic Adhesive Dispenser - 20cc Syringe with 16 Gauge Blunt Needle - Weld-on Applicator | Gaunt Industries | [amazon.com](https://www.amazon.com/Gaunt-Industries-HYPO-SY20-65-Applicator-Weld-/dp/B00GPT1QNU/) | 1 | __8__
+Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 | Adafruit | [Adafruit](https://www.adafruit.com/products/2336) | 96 | __768__
+M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs | Wallmart | [Wallmart](http://www.walmart.com/ip/M10-1mm-Pitch-Threaded-Zinc-Alloy-Pipe-Nipple-Lamp-Repair-Part-30mm-Long-10pcs/51231100) | 2 | __16__
+M3x8mm Black Nylon Pan Head Screws Pack of 100 | Sheena | [amazon.com](https://www.amazon.com/M3x8mm-Black-Nylon-Head-Screws/dp/B00O1S4ZEY/) | 1 | __8__
+Knurled Nut  #8-32 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Brass-Knurled-Thumb-Nut-p/122000.htm) | 32 | __256__
+Male / Female Spacer M 2.5 | Assman WSW Company | [digikey](http://www.digikey.com/product-detail/en/assmann-wsw-components/V6622A/AE10795-ND/3511496) | 192 | __1536__
+Pan Head Screw - M 2.5 | Keystone / Std | [digikey](http://www.digikey.com/product-search/en?keywords=keyston%2029300) | 192 | __1536__
+Split Washer - M2.5 100pcs | Uxcell | [amazon.com](https://www.amazon.com/Stainless-Spring-Washers-Spacer-100pcs/dp/B014IF90YE/ref=sr_1_1?ie=UTF8&qid=1470329400&sr=8-1&keywords=m2.5+split+washer) | 1 | __8__
+Nut M2.5 100 pcs | SmallParts | [amazon.com](https://www.amazon.com/Steel-Hex-M2-5-0-45-Threads-Pack/dp/B000NBIHEW/ref=sr_1_1?ie=UTF8&qid=1470329547&sr=8-1&keywords=m2.5+nut) | 1 | __8__
+M3 5+6mm Male Female Thread Nylon Hex Standoff Spacer Pillar 100pcs | Uxcell | [amazon.com](https://www.amazon.com/uxcell®-Female-Thread-Standoff-Spacer/dp/B013G1NJO8/) | 1 | __8__
+Slotted Flat Head Screw #8-32 x 7/8 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Slotted-Flat-Head-Machine-Screw-Solid-Brass-8-32-p/1013-10005.htm) | 32  | __256__
 
 #### Tools (optional, for reference)
 Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
