@@ -55,7 +55,7 @@ Nut M2.5 100 pcs | SmallParts | [amazon.com](https://www.amazon.com/Steel-Hex-M2
 M3 5+6mm Male Female Thread Nylon Hex Standoff Spacer Pillar 100pcs | Uxcell | [amazon.com](https://www.amazon.com/uxcell®-Female-Thread-Standoff-Spacer/dp/B013G1NJO8/) | 1
 Slotted Flat Head Screw #8-32 x 3/4 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Slotted-Flat-Head-Machine-Screw-Solid-Brass-8-32-p/1013-10005.htm) | 16
 
-#### tools (optional, for reference)
+#### Tools (optional, for reference)
 Name | Manufacturer/Publisher | Link | Qty
 ------------ | ------------- | ------------ | -------------
 Hakko FX888D-23BY Digital Soldering Station FX-888D FX-88 | Hakko | [amazon.com](https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-FX-888D/dp/B00ANZRT4M/) | 1
