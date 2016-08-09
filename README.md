@@ -6,6 +6,12 @@ the minimum quantity for manufacturing is 8 tiles
 ## Bill of Material (BoM)
 
 #### Acrylic
+
+* _Manufactured by [PONOKO](https://www.ponoko.com/)_
+* _All the 4 designs are meant for [Clear Acrylic](http://www.ponoko.com/make-and-sell/show-material/72-acrylic-clear)_
+* _The size (P1,P2,P3) of the design is specified in the filename_
+* _The thickness (2mm,3mm,4.5mm,5.6mm) of the design is specified in the filename_
+
 Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
 ------------ | ------------- | ------------ | ------------- | -------------
 2mm Tile components | Resin.io | [tile_2mm_P1.eps](https://github.com/resin-io/beast/blob/master/hardware/eps/tile_2mm_P1.eps?raw=true) | 2 | __16__
