@@ -47,13 +47,13 @@ Gaunt Industries HYPO-SY20-65 - Solvent Cement Applicator - Precision Acrylic Ad
 Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 | Adafruit | [Adafruit](https://www.adafruit.com/products/2336) | 96
 M10 1mm Pitch Threaded Zinc Alloy Pipe Nipple Lamp Repair Part 30mm Long 10pcs | Wallmart | [Wallmart](http://www.walmart.com/ip/M10-1mm-Pitch-Threaded-Zinc-Alloy-Pipe-Nipple-Lamp-Repair-Part-30mm-Long-10pcs/51231100) | 2
 M3x8mm Black Nylon Pan Head Screws Pack of 100 | Sheena | [amazon.com](https://www.amazon.com/M3x8mm-Black-Nylon-Head-Screws/dp/B00O1S4ZEY/) | 1
-Knurled Nut  #8-32 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Brass-Knurled-Thumb-Nut-p/122000.htm) | 16
-Male / Female Spacer M 2.5 | Assman WSW Company | [digikey](http://www.digikey.com/product-detail/en/assmann-wsw-components/V6622A/AE10795-ND/3511496) | 96
-Pan Head Screw - M 2.5 | Keystone / Std | [digikey](http://www.digikey.com/product-search/en?keywords=keyston%2029300) | 96
+Knurled Nut  #8-32 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Brass-Knurled-Thumb-Nut-p/122000.htm) | 32
+Male / Female Spacer M 2.5 | Assman WSW Company | [digikey](http://www.digikey.com/product-detail/en/assmann-wsw-components/V6622A/AE10795-ND/3511496) | 192
+Pan Head Screw - M 2.5 | Keystone / Std | [digikey](http://www.digikey.com/product-search/en?keywords=keyston%2029300) | 192
 Split Washer - M2.5 100pcs | Uxcell | [amazon.com](https://www.amazon.com/Stainless-Spring-Washers-Spacer-100pcs/dp/B014IF90YE/ref=sr_1_1?ie=UTF8&qid=1470329400&sr=8-1&keywords=m2.5+split+washer) | 1
 Nut M2.5 100 pcs | SmallParts | [amazon.com](https://www.amazon.com/Steel-Hex-M2-5-0-45-Threads-Pack/dp/B000NBIHEW/ref=sr_1_1?ie=UTF8&qid=1470329547&sr=8-1&keywords=m2.5+nut) | 1
 M3 5+6mm Male Female Thread Nylon Hex Standoff Spacer Pillar 100pcs | Uxcell | [amazon.com](https://www.amazon.com/uxcell®-Female-Thread-Standoff-Spacer/dp/B013G1NJO8/) | 1
-Slotted Flat Head Screw #8-32 x 3/4 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Slotted-Flat-Head-Machine-Screw-Solid-Brass-8-32-p/1013-10005.htm) | 16
+Slotted Flat Head Screw #8-32 x 7/8 | Albany County Fasteners | [albanycountyfasteners](http://www.albanycountyfasteners.com/Slotted-Flat-Head-Machine-Screw-Solid-Brass-8-32-p/1013-10005.htm) | 32
 
 #### Tools (optional, for reference)
 Name | Manufacturer/Publisher | Link | Qty
