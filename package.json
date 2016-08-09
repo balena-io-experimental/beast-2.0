@@ -1,7 +1,7 @@
 {
   "name": "beast",
-  "version": "2.0.1",
-  "description": "# Tile the minimum quantity for manufacturing is 8 tiles",
+  "version": "2.1.0",
+  "description": "roar",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
