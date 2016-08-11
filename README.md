@@ -14,10 +14,10 @@ the minimum quantity for manufacturing is 8 tiles
 
 Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
 ------------ | ------------- | ------------ | ------------- | -------------
-2mm Tile components | Resin.io | [tile_2mm_P1.eps](https://github.com/resin-io/beast/blob/master/hardware/eps/tile_2mm_P1.eps?raw=true) | 2 | __16__
-3mm Tile components | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/eps/tile_3mm_P2.eps?raw=true) | 8 | __64__
-4.5mm Tile components | Resin.io | [tile_4.5mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/eps/tile_4.5mm_P2.eps?raw=true) | 1 | __8__
-5.6mm Tile components | Resin.io | [tile_5.6mm_P3.eps](https://github.com/resin-io/beast/blob/master/hardware/eps/tile_5.6mm_P3.eps?raw=true) | 4 | __32__
+2mm Tile components | Resin.io | [tile_2mm_P1.eps](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_2mm_P1.eps?raw=true) | 2 | __16__
+3mm Tile components | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_3mm_P2.eps?raw=true) | 8 | __64__
+4.5mm Tile components | Resin.io | [tile_4.5mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_4.5mm_P2.eps?raw=true) | 1 | __8__
+5.6mm Tile components | Resin.io | [tile_5.6mm_P3.eps](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_5.6mm_P3.eps?raw=true) | 4 | __32__
 
 #### Electric
 Name | Manufacturer/Publisher | Link | Qty | Qty * 4 (32 Tiles)
@@ -80,9 +80,57 @@ _Coming Soon_
 
 # Base (optional)
 
+### Bill of Material (BoM)
+
+#### Acrylic
+
+* _Manufactured by [PONOKO](https://www.ponoko.com/)_
+* _All the 4 designs are meant for [Clear Acrylic](http://www.ponoko.com/make-and-sell/show-material/72-acrylic-clear)_
+* _The size (P1,P2,P3) of the design is specified in the filename_
+* _The thickness (2mm,3mm,4.5mm,5.6mm) of the design is specified in the filename_
+
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
+------------ | ------------- | ------------ | ------------- | -------------
+||||
+
 _Coming Soon_
 
-### Bill of Material (BoM)
+#### Electric
+
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
+------------ | ------------- | ------------ | ------------- | -------------
+||||
+
+_Coming Soon_
+
+#### Electronic
+
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
+------------ | ------------- | ------------ | ------------- | -------------
+||||
+
+_Coming Soon_
+
+#### Network
+
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
+------------ | ------------- | ------------ | ------------- | -------------
+||||
+
+_Coming Soon_
+
+#### Screws and other appliance
+
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
+------------ | ------------- | ------------ | ------------- | -------------
+||||
+
+_Coming Soon_
+
+#### Tools (optional, for reference)
+Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
+------------ | ------------- | ------------ | ------------- | -------------
+||||
 
 _Coming Soon_
 
