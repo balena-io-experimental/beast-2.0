@@ -86,12 +86,19 @@ _Coming Soon_
 
 * _Manufactured by [PONOKO](https://www.ponoko.com/)_
 * _All the 4 designs are meant for [Clear Acrylic](http://www.ponoko.com/make-and-sell/show-material/72-acrylic-clear)_
-* _The size (P1,P2,P3) of the design is specified in the filename_
-* _The thickness (2mm,3mm,4.5mm,5.6mm) of the design is specified in the filename_
+* _The size (P3) of the design is specified in the filename_
+* _The thickness (3mm,4.5mm,5.6mm) of the design is specified in the filename_
 
 Name | Manufacturer/Publisher | Link | Qty | Qty * 8 (64 Tiles)
 ------------ | ------------- | ------------ | ------------- | -------------
-||||
+BASE FRONT CABLES OUT - 4.5mm | Resin.io | [tile_2mm_P1.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_FRONT_CABLES_OUT_4.5mm_P3_Qty_1.eps?raw=true) | 0 | __1__
+BASE TILE A1 - 5.6mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_TILE_A1_5.6mm_P3_Qty_1.eps?raw=true) | 0 | __1__
+BASE TILE A2 - 5.6mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_TILE_A2_5.6mm_P3_Qty_1.eps?raw=true) | 0 | __1__
+BASE TILE A3 - 5.6mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_TILE_A3_5.6mm_P3_Qty_3.eps?raw=true) | 0 | __3__
+BASE TILE B1 - 5.6mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_TILE_B1_5.6mm_P3_Qty_1.eps?raw=true) | 0 | __1__
+BASE TILE B2 - 5.6mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_TILE_B2_5.6mm_P3_Qty1.eps?raw=true) | 0 | __1__
+BASE TILE B3 - 5.6mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASETILE_B3_5.6mm_P3_Qty_3.eps?raw=true) | 0 | __3__
+BASE TILE FRONT - 3mm | Resin.io | [tile_3mm_P2.eps](https://github.com/resin-io/beast/blob/master/hardware/base/eps/BASE_TILE_FRONT_3mm_P3_Qty_9.eps?raw=true) | 0 | __9__
 
 _Coming Soon_
 
