@@ -5,6 +5,9 @@ the minimum quantity for manufacturing is 8 tiles
 
 ## Bill of Material (BoM)
 
+This spreadsheet supersedes the BOM below
+https://docs.google.com/a/resin.io/spreadsheets/d/1MnVRLSnVgTE_QXXYKesO4BOPjPbEVE-CZqkhdrhFNAU/edit?usp=sharing
+
 #### Acrylic
 
 * _Manufactured by [PONOKO](https://www.ponoko.com/)_
