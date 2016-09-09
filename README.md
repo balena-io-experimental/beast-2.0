@@ -1,5 +1,7 @@
 # Beast
 
+[![Join the chat at https://gitter.im/resin-io/beast](https://badges.gitter.im/resin-io/beast.svg)](https://gitter.im/resin-io/beast?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Tile
 the minimum quantity for manufacturing is 8 tiles
 
