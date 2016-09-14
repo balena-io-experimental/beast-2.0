@@ -11,6 +11,11 @@ The Bill of Materials below contains all the components and drawings necesary to
 
 We are currently going through another iteration to 3.0 to reduce cost, assembly time and complexity.
 
+# Pictures
+Click through for more!
+
+[![Beast](http://i.imgur.com/NqSUI0P.jpg)](http://imgur.com/gallery/LwUev)
+
 # Software
 All the Raspberry Pis' run our [Beast demo software](https://github.com/resin-io-projects/beast)
 
