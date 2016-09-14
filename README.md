@@ -14,7 +14,7 @@ We are currently going through another iteration to 3.0 to reduce cost, assembly
 # Pictures
 Click through for more!
 
-[![Beast](http://i.imgur.com/NqSUI0P.jpg)](http://imgur.com/gallery/LwUev)
+[![Beast](http://i.imgur.com/MwI7plt.jpg)](http://imgur.com/gallery/LwUev)
 
 # Software
 All the Raspberry Pis' run our [Beast demo software](https://github.com/resin-io-projects/beast)
