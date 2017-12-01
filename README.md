@@ -35,7 +35,7 @@ The minimum quantity for manufacturing is 8 tiles.
 * _The thickness (2mm,3mm,4.5mm,5.6mm) of the design is specified in the filename_
 
 |  Name | Manufacturer | Part link | Colour link | Price per unit | Qty for minimum build (8 tiles) | Price for minimum build (8 tiles) |
-|  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|  ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |  2mm Tile components | Resin/Ponoko | [tile_2mm_P1](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_2mm_P1.eps?raw=true) | [Clear](http://www.ponoko.com/make-and-sell/show-material/72-acrylic-clear) | $11.72 | 2 | $23.44 |
 |  3mm Tile components | Resin/Ponoko | [tile_3mm_P2](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_3mm_P2.eps?raw=true) | [Gray tint](http://www.ponoko.com/make-and-sell/show-material/351-acrylic-gray-tint) | $27.1 | 8 | $216.80 |
 |  4.5mm Tile components | Resin/Ponoko | [tile_4.5mm_P2](https://github.com/resin-io/beast/blob/master/hardware/tile/eps/tile_4.5mm_P2.eps?raw=true) | [Clear](http://www.ponoko.com/make-and-sell/show-material/72-acrylic-clear) | $48.89 | 1 | $48.89 |
